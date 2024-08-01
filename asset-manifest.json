@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/additional-resources-oe-tdsb/static/js/main.3ee9f0e9.js",
+    "index.html": "/additional-resources-oe-tdsb/index.html",
+    "main.3ee9f0e9.js.map": "/additional-resources-oe-tdsb/static/js/main.3ee9f0e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3ee9f0e9.js"
+  ]
+}
